@@ -1,0 +1,12 @@
+For Java:
+
+
+javac MapReduceWordCount.java
+
+java MapReduceWordCount
+
+
+For Python:
+
+
+python mapReduce.py
